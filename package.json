@@ -1,1 +1,25 @@
+{
+  "name": "sticker-ai-studio",
+  "version": "1.0.0",
+  "description": "Animated Sticker & Sound Creator Powered by AI",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build:twa": "npx @bubblewrap/cli build"
+  },
+  "keywords": [
+    "sticker",
+    "apng",
+    "animation",
+    "ai",
+    "play-store",
+    "twa",
+    "pwa"
+  ],
+  "author": "Thanva Phupingbutr",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
 
